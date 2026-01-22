@@ -10,12 +10,11 @@
 
 ###
 
-<p align="left"> ....
-</p>
+<p align="left">Este espaço foi criado para compartilhar projetos desenvolvidos ao longo dos meus estudos, registrar meu progresso e documentar minha evolução como desenvolvedora. Aqui, aplico os conceitos aprendidos e busco o aprimoramento constante das minhas habilidades por meio da prática e da melhoria contínua ✨💻</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -27,6 +26,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isabelahemillindev&hide_title=false&hide_rank=falsetrue&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isabelahemillindev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/isabelahemillindev/isabelahemillindev/output/snake.svg" alt="Snake animation" />
 
 ###
